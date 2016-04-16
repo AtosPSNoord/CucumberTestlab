@@ -1,6 +1,6 @@
-[![Stories in Ready](https://badge.waffle.io/AtosPSNoord/CucumberTestlab.png?label=ready&title=Ready)](https://waffle.io/AtosPSNoord/CucumberTestlab)
 # CucumberTestlab
 
+[![Stories in Ready](https://badge.waffle.io/AtosPSNoord/CucumberTestlab.png?label=ready&title=Ready)](https://waffle.io/AtosPSNoord/CucumberTestlab)
 [![Build Status](https://travis-ci.org/AtosPSNoord/CucumberTestlab.svg?branch=master)](https://travis-ci.org/AtosPSNoord/CucumberTestlab)
 
 Repo for first cucumber testlab in Groningen
